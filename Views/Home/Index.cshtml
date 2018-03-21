@@ -22,9 +22,9 @@
   <body class="text-center">
     <form class="form-signin">
       <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-      <label for="inputUser" class="sr-only">User Name</label>
+      <label for="inputUser" class="sr-only" asp-for="Username">User Name</label>
       <input type="user" id="inputUser" class="form-control" placeholder="Username" required autofocus>
-      <label for="inputPassword" class="sr-only">Password</label>
+      <label for="inputPassword" class="sr-only" asp-for="password">Password</label>
       <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
       <div class="checkbox mb-3">
       </div>
