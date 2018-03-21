@@ -1,0 +1,10 @@
+/Users/Guero/Documents/Code/Midterm1/bin/Debug/netcoreapp2.0/Midterm1.deps.json
+/Users/Guero/Documents/Code/Midterm1/bin/Debug/netcoreapp2.0/Midterm1.runtimeconfig.json
+/Users/Guero/Documents/Code/Midterm1/bin/Debug/netcoreapp2.0/Midterm1.runtimeconfig.dev.json
+/Users/Guero/Documents/Code/Midterm1/bin/Debug/netcoreapp2.0/Midterm1.dll
+/Users/Guero/Documents/Code/Midterm1/bin/Debug/netcoreapp2.0/Midterm1.pdb
+/Users/Guero/Documents/Code/Midterm1/obj/Debug/netcoreapp2.0/Midterm1.csproj.CoreCompileInputs.cache
+/Users/Guero/Documents/Code/Midterm1/obj/Debug/netcoreapp2.0/Midterm1.AssemblyInfoInputs.cache
+/Users/Guero/Documents/Code/Midterm1/obj/Debug/netcoreapp2.0/Midterm1.AssemblyInfo.cs
+/Users/Guero/Documents/Code/Midterm1/obj/Debug/netcoreapp2.0/Midterm1.dll
+/Users/Guero/Documents/Code/Midterm1/obj/Debug/netcoreapp2.0/Midterm1.pdb
