@@ -15,16 +15,16 @@ namespace Midterm1.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult LoginSuccess()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "You've logged in successfully";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult LoginFail()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Login Failed";
 
             return View();
         }
